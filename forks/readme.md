@@ -1,6 +1,6 @@
-#### Don't fork me
+#### Please, don't fork this repo
 
-Fork the original repositories:
+Please, fork the original repositories:
 - https://github.com/aewallin/GPSPACE (gpspace.f updated frequently)
   - https://github.com/aewallin/ppp-tools (auxiliary tools developed by third part)
 - https://github.com/CGS-GIS/GPSPACE (The original repository)
